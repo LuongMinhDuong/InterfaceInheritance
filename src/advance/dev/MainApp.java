@@ -8,7 +8,7 @@ public class MainApp {
 		std.code();
 		std.hackFacebook();
 		std.playGame();
-		std.sleep("10h");
+		std.sleep(null);
 	}
 
 }
